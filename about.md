@@ -8,7 +8,8 @@ I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab
 [Please find my CV here.](img/Resume-0312.pdf) 
 
 ### News & Travel
-+ **2024.12** One paper was accepted at CHI'25 Case Study. Congrats to my co-authors. 🥳
++ **2024.12** Talk @ China-Netherlands Design Research Doctoral Forum 🙌
++ **2024.12** One paper was accepted at CHI'25 Case Study. Congrats to my co-authors🥳
 + **2024.5** CHI'24 Hawaii 🏄‍♀️ 
 + **2023.7** CUI'23 Eindhoven 🌷
 
