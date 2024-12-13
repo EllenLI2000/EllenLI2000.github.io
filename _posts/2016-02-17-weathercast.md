@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Prompt LLMs for Mental Health'
+title: 'Prompt LLMs for Mental Well-being'
 date: 2023-12-30 15:56:00
 categories: MentalLLM
 tags: PromptEngineering LLMs MentalHealth
