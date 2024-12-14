@@ -14,17 +14,18 @@ I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab
 + **2023.7** CUI'23 Eindhoven 🌷
 
 ### Educational Background
++ **2025.2 - 2029.2**, PhD. Industrial Design, Eindhoven University of Technology
 + **2022.8 - 2023.6**, MSc. Communication Science, University of Amsterdam
 + **2018.8 - 2022.6**, BA. Media and Communication, City University of Hong Kong
 + **2019.7 - 2019.8**, Advanced British Culture and Humanities Programme, University of Oxford
  
 ### Research Experience
-+ **2023.9 - Present**, Research Assistant (Full-time), supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/)
-+ **2022.6 - 2023.9**, Research Intern (Part-time), Supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/) and [Dr. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc)
++ **2023.9 - 2025.1**, Research Assistant, supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/) and [Dr. Can Liu](https://sweb.cityu.edu.hk/canliu/index.html)
++ **2022.6 - 2023.9**, Research Intern, supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/) and [Dr. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc)
 + **2020.10 - 2022.9**, Student Research Assistant (Part-time), supervised by [Prof. Yu-li Liu](https://scholars.cityu.edu.hk/en/persons/yuli-liu(cb5a972e-b906-4c9a-8966-2d04034e50f0).html)
 
-### Service
-+ **Reviewer** for ACM CHI 2024, CSCW 2024, CHI PLAY 2024
+### Academic Service
++ **Reviewer** for ACM CHI 2024-2025, CSCW 2024, CHI PLAY 2024, Chinses CHI 2025
 + **Student Volunteer Chair** for [GBA Pre-Chi](https://gbahci.com/prechi/)
 
 ### Working Experience
