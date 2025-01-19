@@ -6,6 +6,7 @@ permalink: /pub/
 
 ### Publication List
 [🔗Google Scholar](https://scholar.google.com/citations?user=pFr4MykAAAAJ&hl=en)
+
 ^Equal Contribution\*^
 - Xi Zheng, **Zhuoyang Li**, Xinning Gui, Yuhan Luo. (2025) Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots. The ACM Conference on Human Factors in Computing Systems (CHI' 25). (To appear)
 - Xuyu Yang\*, Wengxi Li\*, Mathew Lee, **Zhuoyang Li**, J.D. Zamfirescu-Pereira, Can Liu. (2025) Rambler in the Wild: A Diary Study of LLM-Assisted Writing With Speech. The ACM Conference on Human Factors in Computing Systems (CHI' 25). (To appear)
