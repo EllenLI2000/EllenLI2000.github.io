@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 avatar: '/img/favicon_1.png'
 title: "Hi, I'm Zhuoyang (Ellen) Li."
-email: 'zhuoyanli4@cityu.edu.hk'
+email: 'lizhuoyang720@gmail.com'
 description: "I am a Human-Computer Interaction (HCI) researcher, currently a research assistant at BiWell Lab, City University of Hong Kong. My research interests lie in Conversational Agent (CA), Well-being, Persuasive Technology (PT) and Personal Informatics (PI). I will be joining TU/e in Feb 2025 for my PhD on personalized healthcare technology design. "
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ellenli2000.github.io" # the base hostname & protocol for your site, e.g. https://example.com
@@ -95,7 +95,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: 'Last update: 13/12/2024.'
+footer_text: 'Last update: 19/01/2024.'
 admin_name: 'Zhuoyang (Ellen) Li'
 google_analytics: 'G-2SB2FYKLNH' # Update with your own tracking ID
 enable_contact: false
