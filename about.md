@@ -8,7 +8,8 @@ I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab
 [Please find my CV here.](img/Resume-0312.pdf) 
 
 ### News & Travel
-+ **2024.12** Talk @ China-Netherlands Design Research Doctoral Forum 🙌
++ **2024.1** One paper was accepted at CHI'25. Congrats to my co-authors🥳
++ **2024.12** Invited Talk @ China-Netherlands Design Research Doctoral Forum 🙌
 + **2024.12** One paper was accepted at CHI'25 Case Study. Congrats to my co-authors🥳
 + **2024.5** CHI'24 Hawaii 🏄‍♀️ 
 + **2023.7** CUI'23 Eindhoven 🌷
@@ -20,12 +21,12 @@ I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab
 + **2019.7 - 2019.8**, Advanced British Culture and Humanities Programme, University of Oxford
  
 ### Research Experience
-+ **2023.9 - 2025.1**, Research Assistant, supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/) and [Dr. Can Liu](https://sweb.cityu.edu.hk/canliu/index.html)
-+ **2022.6 - 2023.9**, Research Intern, supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/) and [Dr. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc)
++ **2022.7 - 2025.1**, Research Assistant, supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/) 
++ **2024.10 - 2025.1** Part-time Research Assistant, supervised by [Dr. Can Liu](https://sweb.cityu.edu.hk/canliu/index.html)
 + **2020.10 - 2022.9**, Student Research Assistant (Part-time), supervised by [Prof. Yu-li Liu](https://scholars.cityu.edu.hk/en/persons/yuli-liu(cb5a972e-b906-4c9a-8966-2d04034e50f0).html)
 
 ### Academic Service
-+ **Reviewer** for ACM CHI 2024-2025, CSCW 2024, CHI PLAY 2024, Chinses CHI 2025
++ **Reviewer** for ACM CHI 2024-2025, CSCW 2024-2025, CHI PLAY 2024, Chinses CHI 2025
 + **Student Volunteer Chair** for [GBA Pre-Chi](https://gbahci.com/prechi/)
 
 ### Working Experience
