@@ -16,7 +16,7 @@
 avatar: '/img/favicon_1.png'
 title: "Hi, I'm Zhuoyang (Ellen) Li."
 email: 'lizhuoyang720@gmail.com'
-description: "I am a PhD student at the Eindhoven University of Technology, specializing in personalized healthcare technology design. "
+description: "I am a PhD student at the Department of Industrial Design at Eindhoven University of Technology. My research focuses on personalized healthcare technology design. "
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ellenli2000.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'in/ellenli2000'
