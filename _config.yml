@@ -16,7 +16,7 @@
 avatar: '/img/favicon_1.png'
 title: "Hi, I'm Zhuoyang (Ellen) Li."
 email: 'lizhuoyang720@gmail.com'
-description: "I am a Human-Computer Interaction (HCI) researcher, currently a research assistant at BiWell Lab, City University of Hong Kong. My research interests lie in Conversational Agent (CA), Well-being, Persuasive Technology (PT) and Personal Informatics (PI). I will be joining TU/e in Feb 2025 for my PhD on personalized healthcare technology design. "
+description: "I am a PhD student at the Eindhoven University of Technology, specializing in personalized healthcare technology design. "
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ellenli2000.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'in/ellenli2000'
@@ -95,7 +95,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: 'Last update: 19/01/2024.'
+footer_text: 'Last update: 23/02/2025.'
 admin_name: 'Zhuoyang (Ellen) Li'
 google_analytics: 'G-2SB2FYKLNH' # Update with your own tracking ID
 enable_contact: false
