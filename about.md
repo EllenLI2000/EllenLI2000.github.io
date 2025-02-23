@@ -3,21 +3,22 @@ layout: inner
 title: About Me
 permalink: /about/
 ---
- 
-I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab.html), supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/). As a researcher in the field of HCI, I design and evaluate Conversational Agents (CAs) in the context of people's daily health and mental well-being. Broadly, my research lies in the intersection of Computer-Supported Cooperative Work & Social Computing (CSCW), Personal Informatics (PI), and Communication Science. I aspire to unveil the various possibilities of CAs to empower human well-being.
+I am a PhD student at TU/e in the Department of Industrial Design, under the supervision of [Dr. Daniel Tetteroo](https://danieltetteroo.nl/) and [Dr. Maarten Houben](https://maartenhouben.be/). From September 2023 to January 2025, I worked as a research assistant at the [**BiWell Lab**](https://yuhanlolo.github.io/me/lab.html), City University of Hong Kong, and was supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/). My research interests focus on personalized healthcare technology, persuasive technology, conversational Agents, and personal informatics.
+
 [Please find my CV here.](img/Resume-0312.pdf) 
 
 ### News & Travel
-+ **2024.1** One paper was accepted at CHI'25. Congrats to my co-authors🥳
++ **2025.4** CHI'25 Yokohama 🌸
++ **2025.1** One paper was accepted at CHI'25. Congrats to my co-authors 🥳
 + **2024.12** Invited Talk @ China-Netherlands Design Research Doctoral Forum 🙌
-+ **2024.12** One paper was accepted at CHI'25 Case Study. Congrats to my co-authors🥳
++ **2024.12** One paper was accepted at CHI'25 Case Study. Congrats to my co-authors 🥳
 + **2024.5** CHI'24 Hawaii 🏄‍♀️ 
 + **2023.7** CUI'23 Eindhoven 🌷
 
 ### Educational Background
-+ **2025.2 - 2029.2**, PhD. Industrial Design, Eindhoven University of Technology
-+ **2022.8 - 2023.6**, MSc. Communication Science, University of Amsterdam
-+ **2018.8 - 2022.6**, BA. Media and Communication, City University of Hong Kong
++ **2025.2 - 2029.2**, Ph.D. Industrial Design, Eindhoven University of Technology
++ **2022.8 - 2023.6**, M.Sc. Communication Science, University of Amsterdam
++ **2018.8 - 2022.6**, B.A. Media and Communication, City University of Hong Kong
 + **2019.7 - 2019.8**, Advanced British Culture and Humanities Programme, University of Oxford
  
 ### Research Experience
@@ -26,7 +27,8 @@ I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab
 + **2020.10 - 2022.9**, Student Research Assistant (Part-time), supervised by [Prof. Yu-li Liu](https://scholars.cityu.edu.hk/en/persons/yuli-liu(cb5a972e-b906-4c9a-8966-2d04034e50f0).html)
 
 ### Academic Service
-+ **Reviewer** for ACM CHI 2024-2025, CSCW 2024-2025, CHI PLAY 2024, Chinses CHI 2025
++ **Associated Chair (AC)** for CHI LBW 2025
++ **Reviewer** for CHI 2024-2025, CSCW 2024-2025, CHI PLAY 2024, Chinses CHI 2025
 + **Student Volunteer Chair** for [GBA Pre-Chi](https://gbahci.com/prechi/)
 
 ### Working Experience
