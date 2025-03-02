@@ -8,6 +8,7 @@ permalink: /pub/
 [🔗Google Scholar](https://scholar.google.com/citations?user=pFr4MykAAAAJ&hl=en)
 
 <sup>Equal Contribution\*<sup>
+- **Zhuoyang Li**\*, Zihao Zhu\*, Xinning Gui, Yuhan Luo. “This is Human Intelligence Debugging Artificial Intelligence”: Examining How People Prompt GPT in Seeking Mental Health Support. (Under review)
 - Xi Zheng, **Zhuoyang Li**, Xinning Gui, Yuhan Luo. (2025) Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots. The ACM Conference on Human Factors in Computing Systems (CHI' 25). (To appear)
 - Xuyu Yang\*, Wengxi Li\*, Mathew Lee, **Zhuoyang Li**, J.D. Zamfirescu-Pereira, Can Liu. (2025) Rambler in the Wild: A Diary Study of LLM-Assisted Writing With Speech. The ACM Conference on Human Factors in Computing Systems (CHI' 25). (To appear)
 - **Zhuoyang Li**\*, Minhui Liang\*, Ray LC, Yuhan Luo. (2024) [StayFocused: Examining the Effects of Reflective Prompts and Chatbot Support on Compulsive Smartphone Use.](paper/StayFocused.pdf) The ACM conference on Human Factors in Computing Systems (CHI’24). 
