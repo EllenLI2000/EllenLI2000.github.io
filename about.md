@@ -27,7 +27,7 @@ I am a PhD student at TU/e in the Department of Industrial Design, under the sup
 
 ### Academic Service
 + **Associated Chair (AC)** for CHI LBW 2025
-+ **Reviewer** for CHI 2024-2025, CSCW 2024-2025, CHI PLAY 2024, Chinses CHI 2025
++ **Reviewer** for CHI 2024-2025, CSCW 2024-2025, CHI PLAY 2024, Chinese CHI 2025
 + **Student Volunteer Chair** for [GBA Pre-Chi](https://gbahci.com/prechi/)
 
 ### Working Experience
