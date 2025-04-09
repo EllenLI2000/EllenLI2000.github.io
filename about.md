@@ -7,9 +7,10 @@ I am a PhD student at TU/e in the Department of Industrial Design, under the sup
 
 ### News & Travel
 + **2025.4** CHI'25 Yokohama 🌸
++ **2025.4** One paper was accepted at DIS'25. Congrats to my co-authors 🥳
 + **2025.1** One paper was accepted at CHI'25. Congrats to my co-authors 🥳
 + **2024.12** Invited Talk @ China-Netherlands Design Research Doctoral Forum 🙌
-+ **2024.12** One paper was accepted at CHI'25 Case Study. Congrats to my co-authors 🥳
++ **2024.12** One case study was accepted at CHI'25. Congrats to my co-authors 🥳
 + **2024.5** CHI'24 Hawaii 🏄‍♀️ 
 + **2023.7** CUI'23 Eindhoven 🌷
 
