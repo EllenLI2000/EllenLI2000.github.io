@@ -9,8 +9,8 @@ permalink: /pub/
 
 <sup>Equal Contribution\*<sup>
 - Yuhan Luo, Xinning Gui, Xianghua(Sharon) Ding, Xi Zheng, Rie Helene (Lindy) Hernandez, **Zhuoyang Li**, Qiurong Song. (2025) Reflecting Upon The Setbacks in Designing Personal Informatics Systems: A Critical Review of Empirical Studies. ACM Designing Interactive Systems Conference (DIS'25). (To appear)
-- Xi Zheng, **Zhuoyang Li**, Xinning Gui, Yuhan Luo. (2025) Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots. The ACM Conference on Human Factors in Computing Systems (CHI' 25). (To appear)
-- Xuyu Yang\*, Wengxi Li\*, Mathew Lee, **Zhuoyang Li**, J.D. Zamfirescu-Pereira, Can Liu. (2025) Rambler in the Wild: A Diary Study of LLM-Assisted Writing With Speech. The ACM Conference on Human Factors in Computing Systems (CHI' 25). (To appear)
+- Xi Zheng, **Zhuoyang Li**, Xinning Gui, Yuhan Luo. (2025) Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots. The ACM Conference on Human Factors in Computing Systems (CHI'25). (To appear)
+- Xuyu Yang\*, Wengxi Li\*, Mathew Lee, **Zhuoyang Li**, J.D. Zamfirescu-Pereira, Can Liu. (2025) Rambler in the Wild: A Diary Study of LLM-Assisted Writing With Speech. The ACM Conference on Human Factors in Computing Systems (CHI'25). (To appear)
 - **Zhuoyang Li**\*, Zihao Zhu\*, Xinning Gui, Yuhan Luo. “This is Human Intelligence Debugging Artificial Intelligence”: Examining How People Prompt GPT in Seeking Mental Health Support. (Under review)
 - **Zhuoyang Li**\*, Minhui Liang\*, Ray LC, Yuhan Luo. (2024) [StayFocused: Examining the Effects of Reflective Prompts and Chatbot Support on Compulsive Smartphone Use.](paper/StayFocused.pdf) The ACM conference on Human Factors in Computing Systems (CHI’24). 
 - **Zhuoyang Li**\*, Minhui Liang\*, Trung Hai Le, Ray LC, Yuhan Luo. (2023) [Exploring Design Opportunities for Reflective Conversational Agents to Reduce Compulsive Smartphone Use.](https://doi.org/10.1145/3571884.3604305) The ACM conference on Conversational User Interfaces (CUI’23).
