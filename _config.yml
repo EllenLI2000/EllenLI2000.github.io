@@ -95,7 +95,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: 'Last update: 06/05/2025.'
+footer_text: 'Last update: 23/05/2025.'
 admin_name: 'Zhuoyang (Ellen) Li'
 google_analytics: 'G-2SB2FYKLNH' # Update with your own tracking ID
 enable_contact: false
