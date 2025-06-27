@@ -8,7 +8,7 @@ permalink: /pub/
 [🔗Google Scholar](https://scholar.google.com/citations?user=pFr4MykAAAAJ&hl=en)
 
 <sup>Equal Contribution\*<sup>
-- **Zhuoyang Li**\*, Zihao Zhu\*, Xinning Gui, Yuhan Luo. (2025) “This is Human Intelligence Debugging Artificial Intelligence”: Examining How People Prompt GPT in Seeking Mental Health Support. International Journal of Human-Computer Studies (IJHCS). (To appear)
+- **Zhuoyang Li**\*, Zihao Zhu\*, Xinning Gui, Yuhan Luo. (2025) [“This is Human Intelligence Debugging Artificial Intelligence”: Examining How People Prompt GPT in Seeking Mental Health Support.](https://doi.org/10.1016/j.ijhcs.2025.103555) International Journal of Human-Computer Studies (IJHCS). 
 - Yuhan Luo, Xinning Gui, Xianghua(Sharon) Ding, Xi Zheng, Rie Helene (Lindy) Hernandez, **Zhuoyang Li**, Qiurong Song. (2025) Reflecting Upon The Setbacks in Designing Personal Informatics Systems: A Critical Review of Empirical Studies. ACM Designing Interactive Systems Conference (DIS'25). (To appear)
 - Xi Zheng, **Zhuoyang Li**, Xinning Gui, Yuhan Luo. (2025) [Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots.](https://doi.org/10.1145/3706598.3713453) The ACM Conference on Human Factors in Computing Systems (CHI'25).
 - Xuyu Yang\*, Wengxi Li\*, Mathew Lee, **Zhuoyang Li**, J.D. Zamfirescu-Pereira, Can Liu. (2025) [Rambler in the Wild: A Diary Study of LLM-Assisted Writing With Speech.](https://doi.org/10.1145/3706599.3706676) The ACM Conference on Human Factors in Computing Systems (CHI'25). 
