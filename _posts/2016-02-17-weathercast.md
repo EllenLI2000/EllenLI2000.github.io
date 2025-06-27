@@ -6,9 +6,9 @@ date: 2023-12-30 15:56:00
 categories: MentalLLM
 tags: PromptEngineering LLMs MentalHealth
 featured_image: 'img/posts/Blog-31-Prompt-Engineering-and-Beyond.jpeg'
-project_link: 'mailto:ellen.li@cityu.edu.hk'
-button_text: 'Contact me to learn more'
-button_icon: 'envelope'
+project_link: 'https://doi.org/10.1016/j.ijhcs.2025.103555'
+button_text: 'Check it on IJHCS'
+button_icon: 'link'
 sec_link: ''
 sec_button_icon: ''
 sec_button_text: ''
