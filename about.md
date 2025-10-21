@@ -6,14 +6,9 @@ permalink: /about/
 I am a PhD student at TU/e in the Department of Industrial Design, under the supervision of [Dr. Daniel Tetteroo](https://danieltetteroo.nl/) and [Dr. Maarten Houben](https://maartenhouben.be/). From September 2023 to January 2025, I worked as a research assistant at the [**BiWell Lab**](https://yuhanlolo.github.io/me/lab.html), City University of Hong Kong, and was supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/). My research interests focus on personalized healthcare technology, persuasive technology, conversational agents, and personal informatics.
 
 ### News & Travel
-+ **2025.5** One paper was accepted by the International Journal of Human-Computer Studies (IJHCS). Thank all my co-authors for their support and guidance 🥳
 + **2025.4** CHI'25 Yokohama 🌸
-+ **2025.4** One paper was accepted at DIS'25. Congrats to my co-authors 🥳
-+ **2025.1** One paper was accepted at CHI'25. Congrats to my co-authors 🥳
 + **2024.12** Invited Talk @ China-Netherlands Design Research Doctoral Forum 🙌
-+ **2024.12** One case study was accepted at CHI'25. Congrats to my co-authors 🥳
 + **2024.5** CHI'24 Hawaii 🏄‍♀️
-+ **2024.1** One paper was accepted at CHI'24. Thank all my co-authors for their support and guidance 🥳
 + **2023.7** CUI'23 Eindhoven 🌷
 
 ### Educational Background
@@ -28,8 +23,8 @@ I am a PhD student at TU/e in the Department of Industrial Design, under the sup
 + **2020.10 - 2022.9**, Student Research Assistant (Part-time), supervised by [Prof. Yu-li Liu](https://scholars.cityu.edu.hk/en/persons/yuli-liu(cb5a972e-b906-4c9a-8966-2d04034e50f0).html)
 
 ### Academic Service
-+ **Associated Chair (AC)** for CHI LBW 2025
-+ **Reviewer** for CHI 2024-2025, CSCW 2024-2025, CHI PLAY 2024, Chinese CHI 2025
++ **Associated Chair (AC)** for CHI LBW 2025, Pervasive Health Late Track 2025 
++ **Reviewer** for CHI 2024-2026, CSCW 2024-2025, CHI PLAY 2024, Chinese CHI 2025
 + **Student Volunteer Chair** for [GBA Pre-Chi](https://gbahci.com/prechi/)
 
 ### Working Experience
