@@ -6,6 +6,7 @@ permalink: /about/
 I am a PhD student at TU/e in the Department of Industrial Design, under the supervision of [Dr. Daniel Tetteroo](https://danieltetteroo.nl/) and [Dr. Maarten Houben](https://maartenhouben.be/). From September 2023 to January 2025, I worked as a research assistant at the [**BiWell Lab**](https://yuhanlolo.github.io/me/lab.html), City University of Hong Kong, and was supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/). My research interests focus on personalized healthcare technology, persuasive technology, conversational agents, and personal informatics.
 
 ### News & Travel
++ **2026.4** CHI'26 Barcelona 🌅
 + **2025.4** CHI'25 Yokohama 🌸
 + **2024.12** Invited Talk @ China-Netherlands Design Research Doctoral Forum 🙌
 + **2024.5** CHI'24 Hawaii 🏄‍♀️
