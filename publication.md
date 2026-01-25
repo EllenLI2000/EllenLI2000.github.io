@@ -8,7 +8,7 @@ permalink: /pub/
 [🔗Google Scholar](https://scholar.google.com/citations?user=pFr4MykAAAAJ&hl=en)
 
 <sup>Equal Contribution\*<sup>
-
+- [C4] **Zhuoyang Li**, Yanlai Wu, Yao Li, Xinning Gui, Yuhan Luo. (2026) Privacy Control in Conversational LLM Platforms: A Walkthrough Study. The ACM Conference on Human Factors in Computing Systems (CHI'26).
 - [J4] Yu-li Liu, Chuling Song, Dongpeng Huang, Xun Liu, **Zhuoyang Li**, Bo Hu. (2025) [How Can Chatbots Comfort Humans? Exploring the Effects of Emoji and Identity Cues in Emotional Support.](https://doi.org/10.1080/10447318.2025.2598675)International Journal of Human-Computer Interaction (IJHCI).
 - [J3] Ruishan Wu, **Zhuoyang Li**, Charles Perin, Sheelagh Carpendale, Can Liu. (2025) [Design Exploration of AI-Assisted Personal Affective Physicalization.](https://doi.org/10.1109/MCG.2025.3614686)IEEE Computer Graphics and Applications
 - [J2] **Zhuoyang Li**\*, Zihao Zhu\*, Xinning Gui, Yuhan Luo. (2025) [“This is Human Intelligence Debugging Artificial Intelligence”: Examining How People Prompt GPT in Seeking Mental Health Support.](https://doi.org/10.1016/j.ijhcs.2025.103555) International Journal of Human-Computer Studies (IJHCS). 
