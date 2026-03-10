@@ -4,9 +4,11 @@ title: Publication
 permalink: /pub/
 ---
 [🔗Google Scholar](https://scholar.google.com/citations?user=pFr4MykAAAAJ&hl=en)
+
 <sup>Equal Contribution\*<sup>
 
-### Full papers (fully peer reviewed)
+### Full papers 
+(fully peer reviewed)
 - [C4] **Zhuoyang Li**, Yanlai Wu, Yao Li, Xinning Gui, Yuhan Luo. (2026) [Privacy Control in Conversational LLM Platforms: A Walkthrough Study.](paper/chi26walkthrough.pdf) The ACM Conference on Human Factors in Computing Systems (CHI'26).
 - [J4] Yu-li Liu, Chuling Song, Dongpeng Huang, Xun Liu, **Zhuoyang Li**, Bo Hu. (2025) [How Can Chatbots Comfort Humans? Exploring the Effects of Emoji and Identity Cues in Emotional Support.](https://doi.org/10.1080/10447318.2025.2598675)International Journal of Human-Computer Interaction (IJHCI).
 - [J3🌟] Ruishan Wu, **Zhuoyang Li**, Charles Perin, Sheelagh Carpendale, Can Liu. (2025) [Design Exploration of AI-Assisted Personal Affective Physicalization.](https://doi.org/10.1109/MCG.2025.3614686)IEEE Computer Graphics and Applications
@@ -16,7 +18,8 @@ permalink: /pub/
 - [C1] **Zhuoyang Li**\*, Minhui Liang\*, Ray LC, Yuhan Luo. (2024) [StayFocused: Examining the Effects of Reflective Prompts and Chatbot Support on Compulsive Smartphone Use.](paper/StayFocused.pdf) The ACM conference on Human Factors in Computing Systems (CHI’24). 
 - [J1] Yu-li Liu, Wenjia Yan, Bo Hu, **Zhuoyang Li**, Yik Ling Lai. (2022). [Effects of personalization and source expertise on users’ health beliefs and usage intention toward health chatbots: Evidence from an online experiment.](https://doi.org/10.1177/20552076221129718) DIGITAL HEALTH.
 
-### Late-breaking papers (lightly peer reviewed)
+### Late-breaking papers 
+(lightly peer reviewed)
 - [EA2🏅] Xuyu Yang\*, Wengxi Li\*, Mathew Lee, **Zhuoyang Li**, J.D. Zamfirescu-Pereira, Can Liu. (2025) [Rambler in the Wild: A Diary Study of LLM-Assisted Writing With Speech.](https://doi.org/10.1145/3706599.3706676) The ACM Conference on Human Factors in Computing Systems (CHI'25).
 - [EA1] **Zhuoyang Li**\*, Minhui Liang\*, Trung Hai Le, Ray LC, Yuhan Luo. (2023) [Exploring Design Opportunities for Reflective Conversational Agents to Reduce Compulsive Smartphone Use.](https://doi.org/10.1145/3571884.3604305) The ACM conference on Conversational User Interfaces (CUI’23).
 
