@@ -9,7 +9,7 @@ permalink: /pub/
 ### Full papers (fully peer reviewed)
 - [C4] **Zhuoyang Li**, Yanlai Wu, Yao Li, Xinning Gui, Yuhan Luo. (2026) [Privacy Control in Conversational LLM Platforms: A Walkthrough Study.](paper/chi26walkthrough.pdf) The ACM Conference on Human Factors in Computing Systems (CHI'26).
 - [J4] Yu-li Liu, Chuling Song, Dongpeng Huang, Xun Liu, **Zhuoyang Li**, Bo Hu. (2025) [How Can Chatbots Comfort Humans? Exploring the Effects of Emoji and Identity Cues in Emotional Support.](https://doi.org/10.1080/10447318.2025.2598675)International Journal of Human-Computer Interaction (IJHCI).
-- [J3] Ruishan Wu, **Zhuoyang Li**, Charles Perin, Sheelagh Carpendale, Can Liu. (2025) [Design Exploration of AI-Assisted Personal Affective Physicalization.](https://doi.org/10.1109/MCG.2025.3614686)IEEE Computer Graphics and Applications
+- [J3🌟] Ruishan Wu, **Zhuoyang Li**, Charles Perin, Sheelagh Carpendale, Can Liu. (2025) [Design Exploration of AI-Assisted Personal Affective Physicalization.](https://doi.org/10.1109/MCG.2025.3614686)IEEE Computer Graphics and Applications
 - [J2] **Zhuoyang Li**\*, Zihao Zhu\*, Xinning Gui, Yuhan Luo. (2025) [“This is Human Intelligence Debugging Artificial Intelligence”: Examining How People Prompt GPT in Seeking Mental Health Support.](https://doi.org/10.1016/j.ijhcs.2025.103555) International Journal of Human-Computer Studies (IJHCS). 
 - [C3] Yuhan Luo, Xinning Gui, Xianghua(Sharon) Ding, Xi Zheng, Rie Helene (Lindy) Hernandez, **Zhuoyang Li**, Qiurong Song. (2025) [Reflecting Upon The Setbacks in Designing Personal Informatics Systems: A Critical Review of Empirical Studies.](https://doi.org/10.1145/3715336.3735746) ACM Designing Interactive Systems Conference (DIS'25). 
 - [C2] Xi Zheng, **Zhuoyang Li**, Xinning Gui, Yuhan Luo. (2025) [Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots.](https://doi.org/10.1145/3706598.3713453) The ACM Conference on Human Factors in Computing Systems (CHI'25).
@@ -17,8 +17,8 @@ permalink: /pub/
 - [J1] Yu-li Liu, Wenjia Yan, Bo Hu, **Zhuoyang Li**, Yik Ling Lai. (2022). [Effects of personalization and source expertise on users’ health beliefs and usage intention toward health chatbots: Evidence from an online experiment.](https://doi.org/10.1177/20552076221129718) DIGITAL HEALTH.
 
 ### Late-breaking papers (lightly peer reviewed)
-- [EA2] Xuyu Yang\*, Wengxi Li\*, Mathew Lee, **Zhuoyang Li**, J.D. Zamfirescu-Pereira, Can Liu. (2025) [Rambler in the Wild: A Diary Study of LLM-Assisted Writing With Speech.](https://doi.org/10.1145/3706599.3706676) The ACM Conference on Human Factors in Computing Systems (CHI'25).
+- [EA2🏅] Xuyu Yang\*, Wengxi Li\*, Mathew Lee, **Zhuoyang Li**, J.D. Zamfirescu-Pereira, Can Liu. (2025) [Rambler in the Wild: A Diary Study of LLM-Assisted Writing With Speech.](https://doi.org/10.1145/3706599.3706676) The ACM Conference on Human Factors in Computing Systems (CHI'25).
 - [EA1] **Zhuoyang Li**\*, Minhui Liang\*, Trung Hai Le, Ray LC, Yuhan Luo. (2023) [Exploring Design Opportunities for Reflective Conversational Agents to Reduce Compulsive Smartphone Use.](https://doi.org/10.1145/3571884.3604305) The ACM conference on Conversational User Interfaces (CUI’23).
 
 ### Workshop and position papers
-- [P1] **Zhuoyang Li**, Maarten Houben, Daniel Tetteroo. (2026) [Understanding Temporal Tensions in Informal Care for AI Design.](paper/chi26ai4care) CHI'26 Workshop: Toward Relationship-Centered Care with AI: Designing for Human Connections in Healthcare.
+- [P1🌟] **Zhuoyang Li**, Maarten Houben, Daniel Tetteroo. (2026) [Understanding Temporal Tensions in Informal Care for AI Design.](paper/chi26ai4care) CHI'26 Workshop: Toward Relationship-Centered Care with AI: Designing for Human Connections in Healthcare.
