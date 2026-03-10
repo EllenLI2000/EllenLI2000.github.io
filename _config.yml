@@ -105,7 +105,7 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About Me' }
-  - { url: '/pub', text: 'Publication' }
+  - { url: '/pub', text: 'Research Portfolio' }
   - { url: '/misc', text: 'Trivia'}
   #- { url: '/Chatbot', text: 'Chat with AI Ellen 🤖️'}
 
