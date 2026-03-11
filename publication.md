@@ -24,4 +24,4 @@ permalink: /pub/
 - [EA1] **Zhuoyang Li**\*, Minhui Liang\*, Trung Hai Le, Ray LC, Yuhan Luo. (2023) [Exploring Design Opportunities for Reflective Conversational Agents to Reduce Compulsive Smartphone Use.](https://doi.org/10.1145/3571884.3604305) The ACM conference on Conversational User Interfaces (CUI’23).
 
 ### Workshop and position papers
-- [P1🌟] **Zhuoyang Li**, Maarten Houben, Daniel Tetteroo. (2026) [Understanding Temporal Tensions in Informal Care for AI Design.](paper/chi26ai4care) CHI'26 Workshop: Toward Relationship-Centered Care with AI: Designing for Human Connections in Healthcare.
+- [P1🌟] **Zhuoyang Li**, Maarten Houben, Daniel Tetteroo. (2026) [Understanding Temporal Tensions in Informal Care for AI Design.](paper/chi26ai4care.pdf) CHI'26 Workshop: Toward Relationship-Centered Care with AI: Designing for Human Connections in Healthcare.
