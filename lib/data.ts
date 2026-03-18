@@ -205,9 +205,9 @@ export const cv = {
     { role: "Student Research Assistant (Part-time)", org: "City University of Hong Kong", supervisor: "Prof. Yu-li Liu", supervisorUrl: "https://scholars.cityu.edu.hk/en/persons/yuli-liu(cb5a972e-b906-4c9a-8966-2d04034e50f0).html", period: "Oct 2020 – Sep 2022" },
   ],
   service: [
-    { role: "Associate Chair (AC)", detail: "CHI LBW 2025, Pervasive Health Late Track 2025" },
-    { role: "Reviewer", detail: "DIS Pictorial 2026, CHI 2024–2026, CSCW 2024–2025, Chinese CHI 2025, CHI PLAY 2024" },
-    { role: "Student Volunteer Chair", detail: "GBA Pre-CHI", url: "https://gbahci.com/prechi/" },
+    { role: "Associate Chair (AC)", detail: "[CHI LBW](https://chi2025.acm.org/for-authors/late-breaking-work/) 2025, [Pervasive Health Late Track](https://pervasivehealth.eai-conferences.org/2025/) 2025" },
+    { role: "Reviewer", detail: "[DIS Pictorials](https://dis.acm.org/2026/pictorials/) 2026, [CHI](https://chi2026.acm.org/) 2024–2026, [CSCW](https://cscw.acm.org/2025/) 2024–2025, [Chinese CHI](https://ichec.icachi.org/25/) 2025, [CHI PLAY](https://chiplay.acm.org/2024/) 2024" },
+    { role: "Student Volunteer Chair", detail: "[GBA Pre-CHI](https://gbahci.com/prechi2025/) 2025"},
   ],
   work: [
     { role: "Account Executive Intern", org: "BlueCurrent (Hong Kong)", orgUrl: "https://bluecurrentgroup.com.hk/", period: "Mar 2022 – Jun 2022" },
