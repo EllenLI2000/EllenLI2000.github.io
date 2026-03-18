@@ -37,7 +37,7 @@ export default function Sidebar() {
       </div>
 
       <div className="sidebar-section">
-        <h2 className="section-heading">Education</h2>
+        <h2 className="section-heading">Short Bio</h2>
         <ul className="edu-list">
           {cv.education.map((e, i) => (
             <li key={i} className="edu-item">
