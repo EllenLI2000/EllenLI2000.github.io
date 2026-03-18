@@ -225,19 +225,19 @@ export type TeachingItem = {
 
 export const teaching: TeachingItem[] = [
   {
-    title: "Exploring Temporal Self-talk through TimeMirror (DDM140 Research Methods)",
+    title: "Exploring Intertemporal Self-talk through TimeMirror (DDM140 Research Methods)",
     role: "Teaching Assistant - Developed semi-finished research prototype TimeMirror for students to customize and conduct their research based on it.",
     period: "2026 Spring",
     thumbnail: "/thumbnails/TimeMirror.png",
   },
   {
-    title: "Designing Social Robot for Older Adults (DPM120 Project 2: Design Research)",
+    title: "Designing Companion Robot for Older Adults (DPM120 Project 2: Design Research)",
     role: "Expert - Provided feedback on students' research projects",
     period: "2026 Spring",
     thumbnail: "/thumbnails/Silvec.png",
   },
   {
-    title: "Exploring Temporality for Stakeholders in Care Home (DPM120 Project 2: Design Research/DPB390 Final Bachelors' Project)",
+    title: "Exploring Temporality in Care Home (DPM120 Project 2: Design Research/DPB390 Final Bachelors' Project)",
     role: "Expert - Provided feedback on students' research projects",
     period: "2026 Spring, 2025 Fall",
     thumbnail: "/thumbnails/Squad1.png",
