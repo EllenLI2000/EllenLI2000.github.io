@@ -1,8 +1,8 @@
 // ─── Edit this file to update all portfolio content ───────────────────────
 
 export const profile = {
-  name: "Zhuoyang Li",
-  title: "PhD Student",
+  name: "Zhuoyang (Ellen) Li",
+  title: "PhD Student| HCI Researcher",
   affiliation: "Department of Industrial Design, Eindhoven University of Technology",
   email: "z.li7@tue.nl",
   shortBio: "PhD student at the Department of Industrial Design at Eindhoven University of Technology. My research focuses on personalized healthcare technology design. Feel free to contact me.",
