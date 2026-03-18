@@ -196,6 +196,7 @@ export const publications: Publication[] = [
 export const cv = {
   education: [
     { degree: "Ph.D. Industrial Design", institution: "Eindhoven University of Technology", period: "Feb 2025 – Now" },
+    { degree: "Research Assistant", institution: "City University of Hong Kong", period: "Sep 2023 – Jan 2025" },
     { degree: "M.Sc. Communication Science", institution: "University of Amsterdam", period: "Aug 2022 – Jun 2023" },
     { degree: "B.A. Media and Communication", institution: "City University of Hong Kong", period: "Aug 2018 – Jun 2022" },
   ],
