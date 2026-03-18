@@ -3,6 +3,55 @@
 import { useState } from "react";
 import { type Publication } from "@/lib/data";
 
+const TAG_CATEGORIES: Record<string, string> = {
+  // Conversational AI
+  "Chatbot": "Conversational AI",
+  "Conversational Agents": "Conversational AI",
+  "Conversational User Interface": "Conversational AI",
+  "Health Chatbot": "Conversational AI",
+  // LLM & Generative AI
+  "LLM": "LLM & Generative AI",
+  "GenAI": "LLM & Generative AI",
+  "Prompting": "LLM & Generative AI",
+  "Physicalization": "LLM & Generative AI",
+  "Affective Computing": "LLM & Generative AI",
+  "Writing": "LLM & Generative AI",
+  "Speech": "LLM & Generative AI",
+  // Mental Health & Wellbeing
+  "Mental Health": "Mental Health & Wellbeing",
+  "Emotional Support": "Mental Health & Wellbeing",
+  "Smartphone Addiction": "Mental Health & Wellbeing",
+  // Persuasive Technology
+  "Persuasive Technology": "Persuasive Technology",
+  "Reflection": "Persuasive Technology",
+  // Personal Informatics
+  "Personal Informatics": "Personal Informatics",
+  "Review": "Personal Informatics",
+  "Customization": "Personal Informatics",
+  // Healthcare & Care
+  "Health Belief Model": "Healthcare & Care",
+  "Personalization": "Healthcare & Care",
+  "Informal Care": "Healthcare & Care",
+  "Temporality": "Healthcare & Care",
+  "Design": "Healthcare & Care",
+  // Privacy
+  "Usable Privacy": "Privacy",
+};
+
+const FILTER_CATEGORIES = [
+  "Conversational AI",
+  "LLM & Generative AI",
+  "Mental Health & Wellbeing",
+  "Persuasive Technology",
+  "Personal Informatics",
+  "Healthcare & Care",
+  "Privacy",
+];
+
+function pubMatchesCategory(pub: Publication, category: string) {
+  return pub.tags.some((tag) => TAG_CATEGORIES[tag] === category);
+}
+
 function Authors({ text }: { text: string }) {
   const parts = text.split(/\*\*(.*?)\*\*/g);
   return (
@@ -30,7 +79,7 @@ function Thumbnail({ pub }: { pub: Publication }) {
   );
 }
 
-function PubCard({ pub, onTagClick }: { pub: Publication; onTagClick: (tag: string) => void }) {
+function PubCard({ pub }: { pub: Publication }) {
   return (
     <div className="pub-card">
       <Thumbnail pub={pub} />
@@ -49,7 +98,7 @@ function PubCard({ pub, onTagClick }: { pub: Publication; onTagClick: (tag: stri
         <div className="pub-footer">
           <div className="pub-tags">
             {pub.tags.map((tag) => (
-              <button key={tag} className="tag tag-clickable" onClick={() => onTagClick(tag)}>{tag}</button>
+              <span key={tag} className="tag">{tag}</span>
             ))}
           </div>
           <div className="pub-links">
@@ -70,13 +119,14 @@ const SECTIONS: { type: Publication["type"]; label: string; note: string }[] = [
 ];
 
 export default function PublicationList({ publications }: { publications: Publication[] }) {
-  const [activeTag, setActiveTag] = useState<string | null>(null);
+  const [activeCategory, setActiveCategory] = useState<string | null>(null);
 
-  const allTags = Array.from(new Set(publications.flatMap((p) => p.tags))).sort();
-  const filtered = activeTag ? publications.filter((p) => p.tags.includes(activeTag)) : publications;
+  const filtered = activeCategory
+    ? publications.filter((p) => pubMatchesCategory(p, activeCategory))
+    : publications;
 
-  const handleTagClick = (tag: string) => {
-    setActiveTag((prev) => (prev === tag ? null : tag));
+  const handleCategoryClick = (category: string) => {
+    setActiveCategory((prev) => (prev === category ? null : category));
   };
 
   return (
@@ -84,18 +134,18 @@ export default function PublicationList({ publications }: { publications: Public
       <div className="pub-filter-bar">
         <span className="pub-filter-label">Filter by topic:</span>
         <div className="pub-filter-tags">
-          {allTags.map((tag) => (
+          {FILTER_CATEGORIES.map((cat) => (
             <button
-              key={tag}
-              className={`tag tag-clickable ${activeTag === tag ? "tag-active" : ""}`}
-              onClick={() => handleTagClick(tag)}
+              key={cat}
+              className={`tag tag-clickable ${activeCategory === cat ? "tag-active" : ""}`}
+              onClick={() => handleCategoryClick(cat)}
             >
-              {tag}
+              {cat}
             </button>
           ))}
         </div>
-        {activeTag && (
-          <button className="pub-filter-clear" onClick={() => setActiveTag(null)}>
+        {activeCategory && (
+          <button className="pub-filter-clear" onClick={() => setActiveCategory(null)}>
             Clear ✕
           </button>
         )}
@@ -113,7 +163,7 @@ export default function PublicationList({ publications }: { publications: Public
               {note && <span className="pub-section-note">{note}</span>}
             </div>
             <div className="pub-cards-grid">
-              {group.map((pub) => <PubCard key={pub.id} pub={pub} onTagClick={handleTagClick} />)}
+              {group.map((pub) => <PubCard key={pub.id} pub={pub} />)}
             </div>
           </div>
         );
