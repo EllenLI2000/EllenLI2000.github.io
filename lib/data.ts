@@ -139,6 +139,7 @@ export const publications: Publication[] = [
     type: "full",
     tags: ["Smartphone Addiction", "Persuasive Technology", "Chatbot", "Reflection"],
     pdf: "paper/C1.pdf",
+    doi: "https://doi.org/10.1145/3613904.3642479",
     thumbnail: "/thumbnails/C1.png",
     video: "https://www.youtube.com/watch?feature=shared&v=EtLGQ-s0UxE",
   },
