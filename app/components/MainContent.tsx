@@ -95,7 +95,7 @@ export default function MainContent() {
                     <span className="cv-item-title">{s.role}</span>
                   </div>
                   <p className="cv-item-sub">
-                    {s.url ? <a href={s.url} className="cv-link" target="_blank" rel="noopener noreferrer">{s.detail}</a> : s.detail}
+                    <RichText text={s.detail} />
                   </p>
                 </div>
               ))}
