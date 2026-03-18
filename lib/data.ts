@@ -15,7 +15,7 @@ export const profile = {
 
 export const aboutMe = `I am a PhD student at the **Department of Industrial Design** at **Eindhoven University of Technology (TU/e)**, supervised by [Dr. Daniel Tetteroo](https://www.tue.nl/en/research/researchers/daniel-tetteroo) and [Dr. Maarten Houben](https://www.tue.nl/en/research/researchers/maarten-houben). Before my PhD, I worked as a research assistant at the **BiWell Lab** at City University of Hong Kong, supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/), and as a part-time research assistant supervised by [Dr. Can Liu](https://sweb.cityu.edu.hk/canliu/index.html). 
 
-During my time at BiWell Lab, my research focused on supporting individuals' **mental well-being** through LLM-powered **conversational user interfaces**. Building on this, my current PhD research investigates the design of **personalized healthcare technology** for people living with **chronic conditions** and their caregivers.`;
+During my time at BiWell Lab, my research focused on supporting individuals' **mental well-being** through LLM-powered **conversational user interfaces**. Building on this, my current PhD research investigates the design of **personalized healthcare technology** for the elderly living with **chronic conditions** and their caregivers.`;
 
 export type ResearchProject = {
   title: string;
