@@ -530,6 +530,65 @@
 
 .pub-link:hover { text-decoration: underline; }
 
+/* Filter bar */
+.pub-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+  padding: 0.75rem 1rem;
+  background: var(--sidebar-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.pub-filter-label {
+  font-size: 0.75rem;
+  color: var(--muted);
+  white-space: nowrap;
+  font-weight: 500;
+}
+
+.pub-filter-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.tag-clickable {
+  background: none;
+  border: 1px solid var(--border);
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.1s, border-color 0.1s;
+}
+
+.tag-clickable:hover {
+  background: #e5e7eb;
+  border-color: #d1d5db;
+}
+
+.tag-active {
+  background: var(--foreground) !important;
+  color: #fff !important;
+  border-color: var(--foreground) !important;
+}
+
+.pub-filter-clear {
+  font-size: 0.7rem;
+  padding: 0.2rem 0.5rem;
+  background: none;
+  border: 1px solid #d1d5db;
+  border-radius: 999px;
+  cursor: pointer;
+  color: var(--muted);
+  font-family: inherit;
+  margin-left: auto;
+}
+
+.pub-filter-clear:hover { background: #f3f4f6; }
+
 /* ─── Footer ─────────────────────────────────────────────── */
 .site-footer {
   position: fixed;

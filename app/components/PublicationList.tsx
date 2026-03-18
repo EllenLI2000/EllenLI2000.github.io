@@ -1,4 +1,7 @@
-import { publications, type Publication } from "@/lib/data";
+"use client";
+
+import { useState } from "react";
+import { type Publication } from "@/lib/data";
 
 function Authors({ text }: { text: string }) {
   const parts = text.split(/\*\*(.*?)\*\*/g);
@@ -27,7 +30,7 @@ function Thumbnail({ pub }: { pub: Publication }) {
   );
 }
 
-function PubCard({ pub }: { pub: Publication }) {
+function PubCard({ pub, onTagClick }: { pub: Publication; onTagClick: (tag: string) => void }) {
   return (
     <div className="pub-card">
       <Thumbnail pub={pub} />
@@ -46,7 +49,7 @@ function PubCard({ pub }: { pub: Publication }) {
         <div className="pub-footer">
           <div className="pub-tags">
             {pub.tags.map((tag) => (
-              <span key={tag} className="tag">{tag}</span>
+              <button key={tag} className="tag tag-clickable" onClick={() => onTagClick(tag)}>{tag}</button>
             ))}
           </div>
           <div className="pub-links">
@@ -67,11 +70,41 @@ const SECTIONS: { type: Publication["type"]; label: string; note: string }[] = [
 ];
 
 export default function PublicationList({ publications }: { publications: Publication[] }) {
+  const [activeTag, setActiveTag] = useState<string | null>(null);
+
+  const allTags = Array.from(new Set(publications.flatMap((p) => p.tags))).sort();
+  const filtered = activeTag ? publications.filter((p) => p.tags.includes(activeTag)) : publications;
+
+  const handleTagClick = (tag: string) => {
+    setActiveTag((prev) => (prev === tag ? null : tag));
+  };
+
   return (
     <div className="pub-list">
+      <div className="pub-filter-bar">
+        <span className="pub-filter-label">Filter by topic:</span>
+        <div className="pub-filter-tags">
+          {allTags.map((tag) => (
+            <button
+              key={tag}
+              className={`tag tag-clickable ${activeTag === tag ? "tag-active" : ""}`}
+              onClick={() => handleTagClick(tag)}
+            >
+              {tag}
+            </button>
+          ))}
+        </div>
+        {activeTag && (
+          <button className="pub-filter-clear" onClick={() => setActiveTag(null)}>
+            Clear ✕
+          </button>
+        )}
+      </div>
+
       <p className="pub-note">* Equal contribution</p>
+
       {SECTIONS.map(({ type, label, note }) => {
-        const group = publications.filter((p) => p.type === type);
+        const group = filtered.filter((p) => p.type === type);
         if (group.length === 0) return null;
         return (
           <div key={type} className="pub-year-group">
@@ -80,7 +113,7 @@ export default function PublicationList({ publications }: { publications: Public
               {note && <span className="pub-section-note">{note}</span>}
             </div>
             <div className="pub-cards-grid">
-              {group.map((pub) => <PubCard key={pub.id} pub={pub} />)}
+              {group.map((pub) => <PubCard key={pub.id} pub={pub} onTagClick={handleTagClick} />)}
             </div>
           </div>
         );
