@@ -25,7 +25,7 @@ export type ResearchProject = {
 export const researchProjects: ResearchProject[] = [
   {
     title: "(Meta-)Designing for Temporal Experiences in Chronic Healthcare Technologies",
-    description: "This is my PhD research project, exploring how personalized technologies can support individuals living with chronic conditions, especially in geriatric rehabilitation and age-related care. Relevant research output: [P1](https://ellenli2000.github.io/paper/P1.pdf)",
+    description: "Chronic healthcare is often a prolonged and demanding process in which patients, caregivers, and healthcare systems enact and experience time in different ways. By foregrounding temporality (i.e., the experience of time), my PhD research aims to inform the design of personalized healthcare technologies. Relevant research output: [P1](https://ellenli2000.github.io/paper/P1.pdf)",
   },
 ];
 
