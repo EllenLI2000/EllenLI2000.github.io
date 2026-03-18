@@ -3,53 +3,19 @@
 import { useState } from "react";
 import { type Publication } from "@/lib/data";
 
-const TAG_CATEGORIES: Record<string, string> = {
-  // Conversational AI
-  "Chatbot": "Conversational AI",
-  "Conversational Agents": "Conversational AI",
-  "Conversational User Interface": "Conversational AI",
-  "Health Chatbot": "Conversational AI",
-  // LLM & Generative AI
-  "LLM": "LLM & Generative AI",
-  "GenAI": "LLM & Generative AI",
-  "Prompting": "LLM & Generative AI",
-  "Physicalization": "LLM & Generative AI",
-  "Affective Computing": "LLM & Generative AI",
-  "Writing": "LLM & Generative AI",
-  "Speech": "LLM & Generative AI",
-  // Mental Health & Wellbeing
-  "Mental Health": "Mental Health & Wellbeing",
-  "Emotional Support": "Mental Health & Wellbeing",
-  "Smartphone Addiction": "Mental Health & Wellbeing",
-  // Persuasive Technology
-  "Persuasive Technology": "Persuasive Technology",
-  "Reflection": "Persuasive Technology",
-  // Personal Informatics
-  "Personal Informatics": "Personal Informatics",
-  "Review": "Personal Informatics",
-  "Customization": "Personal Informatics",
-  // Healthcare & Care
-  "Health Belief Model": "Healthcare & Care",
-  "Personalization": "Healthcare & Care",
-  "Informal Care": "Healthcare & Care",
-  "Temporality": "Healthcare & Care",
-  "Design": "Healthcare & Care",
-  // Privacy
-  "Usable Privacy": "Privacy",
+const CATEGORY_PAPERS: Record<string, string[]> = {
+  "Conversational User Interface": ["J4", "J3", "C2", "C1", "J1", "EA1"],
+  "LLMs & AI":                     ["C4", "J3", "J2", "C2", "C1", "EA1", "EA2", "P1"],
+  "Mental Well-being":             ["J4", "J3", "J2", "C2", "C1", "EA1"],
+  "Healthcare":                    ["J1", "P1"],
+  "Literature Review":             ["C3"],
+  "Usable Privacy":                ["C4"],
 };
 
-const FILTER_CATEGORIES = [
-  "Conversational AI",
-  "LLM & Generative AI",
-  "Mental Health & Wellbeing",
-  "Persuasive Technology",
-  "Personal Informatics",
-  "Healthcare & Care",
-  "Privacy",
-];
+const FILTER_CATEGORIES = Object.keys(CATEGORY_PAPERS);
 
 function pubMatchesCategory(pub: Publication, category: string) {
-  return pub.tags.some((tag) => TAG_CATEGORIES[tag] === category);
+  return CATEGORY_PAPERS[category]?.includes(pub.id) ?? false;
 }
 
 function Authors({ text }: { text: string }) {
