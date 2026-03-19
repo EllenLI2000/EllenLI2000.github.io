@@ -190,6 +190,7 @@ export const publications: Publication[] = [
     tags: ["Informal Care", "Temporality", "Design"],
     award: "🌟 Highlighted Paper",
     pdf: "paper/P1.pdf",
+    thumbnail: "/thumbnails/P1.png",
   },
 ];
 
